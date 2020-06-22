@@ -256,7 +256,7 @@ return false;
             <td width="20%" bordercolor="rgb(0, 0, 0)" valign="middle" style="padding:0px 3px;font-size:12px;border-top:0px solid #000000;border-right:none;border-bottom:0px solid #000000;border-left:0px solid #000000;word-break:normal;background-color:transparent;" bgcolor="transparent" bselect="top,right,bottom,left" align="center">
                 <br>
             </td>
-            <td width="20%" bordercolor="rgb(0, 0, 0)" valign="middle" style="padding:0px 3px;font-size:12px;border:0px solid #000000;word-break:normal;background-color:transparent;" bgcolor="transparent" bselect="top,right,bottom,left" align="center">
+            <td width="200%" bordercolor="rgb(0, 0, 0)" valign="middle" style="padding:0px 3px;font-size:12px;border:0px solid #000000;word-break:normal;background-color:transparent;" bgcolor="transparent" bselect="top,right,bottom,left" align="center">
                 <br>
             </td>
         </tr>
