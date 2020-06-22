@@ -1,15 +1,3 @@
-<div>
-<table _innercreatetable="true" height="35px" border="0" bordercolor="#000000" style="table-layout:fixed;border-collapse:collapse;border:0px solid #000000;table-layout:fixed;width:100%;t" class="  noBorderTable">
-    <tbody>
-        <tr>
-            <td style="word-break:break-all;text-align:center;margin:0px 0px 10px 0px;" rowspan="1" colspan="1" align="center" valign="middle">
-                <a href="index.jsp" _t="100" _i="AGQIAxIA" _n="首页" target="_self" style="line-height:1.05rem;text-align:right"></a><a href="/index.jsp" _t="100" _i="AGQIAxIA" _n="首页" target="_self" class="switchJump"><img src="//15937077.s21i.faiusr.com/4/ABUIABAEGAAg-dvn9gUoyJyz5wEwkgI4WA.png" data-source="http://11136604.s21i.faiusr.com/4/ABUIABAEGAAgxq6_zQUo3sXUpwEwkgI4WA!640x640.png" max-width="100%" overflow="hidden" height="50%" unlocked="0" title="聚神铺官网" alt="聚神铺官网" style="max-width:100%"></a><a href="/index.jsp" _t="100" _i="AGQIAxIA" _n="首页" target="_self" class="switchJump"></a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-</div>
-
 
 <script type="text/javascript">function jspoosearch()
 {
