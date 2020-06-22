@@ -263,5 +263,4 @@ return false;
     </tbody>
 </table>
         
-    </form>
-</div></div>
+  </div>
